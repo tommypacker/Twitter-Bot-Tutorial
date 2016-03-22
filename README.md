@@ -21,8 +21,10 @@ Step 3: Create a Twitter Application
 Create a Twitter application from the Twitter [dev site] (https://apps.twitter.com/).
 You will see a screen like this when you create your application:
 ![alt text](http://imgur.com/Jet2dbE "Preview")
+
 Fill it out with whatever you like. Next you need to go to the Keys and Access Tokens tab. 
 ![alt text](http://imgur.com/VjLJgLB "Preview")
+
 When you get there, scroll down and generate your access tokens. 
 Keep this page open, because we will need it for a later step.
 
