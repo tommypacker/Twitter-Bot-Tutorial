@@ -10,7 +10,7 @@ Open up a terminal window and run "python get-pip.py". This will install pip to 
 
 ##Step 2: Install Tweepy 
 
-From your terminal, run "pip install tweepy". This will install the Twitter library to your computer.
+From your terminal, run ```pip install tweepy```. This will install the Twitter library to your computer.
 
 
 ##Step 3: Create a Twitter Application
