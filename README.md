@@ -5,7 +5,7 @@ Made for CS Sail 2016 at UIUC
 
 Go to the following link: https://bootstrap.pypa.io/get-pip.py.
 From your browser, click "save page as", and save it to your desktop.
-Open up a terminal window and run "python get-pip.py". This will install pip to your computer.
+Open up a terminal window and run ```python get-pip.py```. This will install pip to your computer.
 
 
 ##Step 2: Install Tweepy 
