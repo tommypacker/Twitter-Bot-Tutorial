@@ -18,11 +18,11 @@ From your terminal, run "pip install tweepy". This will install the Twitter libr
 Create a Twitter application from the Twitter [dev site] (https://apps.twitter.com/).
 You will see a screen like this when you create your application:
 
-![alt text](http://imgur.com/Jet2dbE "Preview")
+![alt tag](http://imgur.com/Jet2dbE.png)
 
 Fill it out with whatever you like. Next you need to go to the Keys and Access Tokens tab. 
 
-![alt text](http://imgur.com/VjLJgLB "Preview")
+![alt tag](http://imgur.com/VjLJgLB.png)
 
 When you get there, scroll down and generate your access tokens. 
 Keep this page open, because we will need it for a later step.
