@@ -4,7 +4,7 @@ Made for CS Sail 2016 at UIUC
 ##Step 1: Install Git
 
 Got to the following link where it will walk you through installing git based on your operating system.
-https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git. You can also click "download zip" if you don't want to install git.
 
 
 ##Step 2: Install Pip on your computer
