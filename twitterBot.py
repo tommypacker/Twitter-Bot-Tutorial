@@ -14,7 +14,7 @@ def printTimeLine():
 
 def tweetSomething():
 	tweetStatus = raw_input('Enter your tweet: ')
-	api.update_status(tweetStatus)
+	api.update_status(status=tweetStatus)
 
 while True:
 	userOption = raw_input('Type p to print Timeline, t to tweet something, anything else to quit: ')
